@@ -1,0 +1,72 @@
+[
+    {
+        "question": "O que é operação day trade?",
+        "answer": "Considera-se day trade a operação ou a conjugação de operações iniciadas e encerradas em um mesmo dia, com o mesmo ativo, em uma mesma instituição intermediadora, em que a quantidade negociada tenha sido liquidada, total ou parcialmente. Na apuração do resultado da operação day trade são considerados, pela ordem, o primeiro negócio de compra com o primeiro de venda ou o primeiro negócio de venda com o primeiro de compra, sucessivamente. Será admitida a compensação de perdas incorridas em operações de day trade realizadas no mesmo dia.",
+        "source": "Lei nº 9.959, de 27 de janeiro de 2000, art. 8º; Lei nº 12.350, de 20 de dezembro de 2010, art. 45"
+    },
+    {
+        "question": "Qual é a alíquota de incidência do IR aplicável nas operações realizadas em bolsa?",
+        "answer": "Os ganhos líquidos auferidos em operações realizadas em bolsas de valores, de mercadorias, de futuros, e assemelhadas, inclusive day trade, serão tributados às seguintes alíquotas: a) 20%, no caso de operação day trade; b) 15%, nas operações realizadas nos mercados à vista, a termo, de opções e de futuros. As operações realizadas em bolsas de valores, de mercadorias, de futuros, e assemelhadas estão sujeitas à retenção do imposto sobre a renda incidente na fonte à alíquota de 0,005% (cinco milésimos por cento), salvo se o valor da retenção do imposto seja igual ou inferior a R$ 1,00, como antecipação, podendo ser compensado com o imposto sobre a renda mensal na apuração do ganho líquido.",
+        "source": "Lei nº 11.033, de 21 de dezembro de 2004, art. 2º, caput, incisos I e II,"
+    },
+    {
+        "question": "Quais operações em bolsa são isentas do IR?",
+        "answer": "São isentos do imposto sobre a renda os ganhos líquidos auferidos por pessoa física em operações efetuadas: I - com ações, no mercado à vista de bolsas de valores ou mercado de balcão, se o total das alienações desse ativo, realizadas no mês, não exceder a R$ 20.000,00 (vinte mil reais); II - com ouro, ativo financeiro, se o total das alienações desse ativo, realizadas no mês, não exceder a R$ 20.000,00 (vinte mil reais); III – com ações de pequenas e médias empresas a que se refere o art. 16 da Lei nº 13.043, de 13 de novembro de 2014, até 31 de dezembro de 2023.",
+        "source": "Lei nº 11.033, de 21 de dezembro de 2004, art.3º, inciso I; Lei nº 13.043, de 13 de novembro de 2014, art. 16;"
+    },
+    {
+        "question": "Os rendimentos auferidos em operações day trade sujeitam-se à incidência do imposto sobre a renda incidente na fonte?",
+        "answer": "Sim. Os rendimentos auferidos em operações day trade realizadas em bolsas de valores, de mercadorias, de futuros e assemelhadas, por qualquer beneficiário, sujeitam-se à incidência do imposto sobre a renda incidente na fonte à alíquota de 1%.",
+        "source": "Lei nº 9.959, de 27 de janeiro de 2000, art. 8º"
+    },
+    {
+        "question": "Quem é o responsável pela retenção do imposto sobre a renda retido na fonte incidente sobre operações day trade?",
+        "answer": "O responsável pela retenção e recolhimento do imposto sobre a renda na fonte é a instituição intermediadora da operação de day trade que receber, diretamente, a ordem do cliente.",
+        "source": "Lei nº 9.959, de 27 de janeiro de 2000, art. 8º, § 3º; Lei nº 12.350, de 20 de dezembro de 2010, art. 45, § 3º"
+    },
+    {
+        "question": "O valor do imposto retido na fonte durante o ano-calendário sobre rendimentos de day trade pode ser compensado com o imposto incidente sobre ganhos auferidos em meses do ano-calendário seguinte?",
+        "answer": "Não. O valor do imposto retido na fonte sobre operações day trade somente pode ser compensado até o mês de dezembro do ano-calendário da retenção.",
+        "source": "Lei nº 9.959, de 27 de janeiro de 2000, art. 8º, § 5º;"
+    },
+    {
+        "question": "Quem está obrigado a preencher o Demonstrativo de Apuração de Ganhos - Renda Variável?",
+        "answer": "Este Demonstrativo deve ser preenchido, com a utilização do programa IRPF2024, pelo contribuinte pessoa física, residente no Brasil, que durante o ano-calendário de 2023 efetuou: 1 - alienação de ações no mercado à vista em bolsa de valores; 2 - alienação de ouro, ativo financeiro, no mercado disponível ou à vista em bolsa de mercadorias e de futuros ou diretamente junto a instituições financeiras; 3 - operações nos mercados a termo, de opções e futuro, realizadas em bolsa de valores, de mercadorias e de futuros, com qualquer ativo; 4 - operações realizadas em mercados de liquidação futura, fora de bolsa, inclusive com opções flexíveis.",
+        "source": "Lei nº 11.033, de 21 de dezembro de 2004, art. 3º, inciso I; Lei nº 13.043, de 13 de novembro de 2014, art. 16"
+    },
+    {
+        "question": "Como são tributados os ganhos obtidos pelos cotistas de fundos de ações?",
+        "answer": "São tributados no resgate de quotas à alíquota de 15%. Esse imposto será retido pelo administrador do fundo na data do resgate das quotas, sendo considerado exclusivo de fonte.",
+        "source": "Lei nº 11.033, de 21 de dezembro de 2004, art.1º, § 3º"
+    },
+    {
+        "question": "Como são tributadas as operações no mercado de renda variável e de renda fixa realizadas direta e individualmente por não residente no Brasil?",
+        "answer": "1 - Ressalvados os itens 2 e 3, os rendimentos decorrentes de aplicações financeiras de renda fixa e em fundos de investimento, os ganhos líquidos auferidos em operações realizadas em bolsas de valores, de mercadorias, de futuros e assemelhadas, os ganhos líquidos auferidos na alienação de ouro, ativo financeiro, e em operações realizadas nos mercados de liquidação futura, fora de bolsa, e os rendimentos auferidos nas operações de swap estão sujeitos às mesmas normas de tributação pelo imposto sobre a renda, previstas para o residente no Brasil. 2 - Os rendimentos auferidos por investidor não residente, individual ou coletivo, que realizar operações financeiras no Brasil de acordo com as normas e condições estabelecidas pelo Conselho Monetário Nacional, sujeitam-se à incidência do imposto sobre a renda às seguintes alíquotas: I - 10%, no caso de aplicações nos fundos de investimento em ações, em operações de swap, registradas ou não em bolsa, e nas operações realizadas em mercados de liquidação futura, fora de bolsa; II - 15%, nos demais casos, inclusive em aplicações financeiras de renda fixa, realizadas no mercado de balcão ou em bolsa. 3 - Não estão sujeitos à incidência do imposto sobre a renda os ganhos de capital auferidos pelos investidores não residentes que realizarem operações financeiras no Brasil de acordo com as normas e condições estabelecidas pelo Conselho Monetário Nacional: I - nas operações realizadas em bolsas de valores, de mercadorias, de futuros e assemelhadas, com exceção das operações conjugadas; II - nas operações com ouro, ativo financeiro, fora de bolsa.",
+        "source": "Lei nº 8.981, de 1995, arts. 78 e 81"
+    },
+    {
+        "question": "Qual é o tratamento tributário dos rendimentos obtidos pela pessoa física nas aplicações financeiras?",
+        "answer": "Os rendimentos produzidos por aplicação financeira são tributados na fonte às alíquotas de: a) 22,5%, em aplicações com prazo de até seis meses; b) 20%, em aplicações com prazo de seis meses e um dia até doze meses; c) 17,5%, em aplicações com prazo de doze meses e um dia até vinte e quatro meses; d) 15%, em aplicações com prazo acima de vinte e quatro meses.",
+        "source": "Lei nº 11.033, de 21 de dezembro de 2004, art. 1º"
+    },
+    {
+        "question": "Como são tributados os rendimentos obtidos pelos cotistas de fundos de renda fixa?",
+        "answer": "Se classificados como de longo prazo, os rendimentos são tributados na fonte às alíquotas de: a) 22,5%, em aplicações com prazo de até seis meses; b) 22%, em aplicações com prazo de seis meses e um dia até doze meses; c) 17,5%, em aplicações com prazo de doze meses e um dia até vinte e quatro meses; d) 15%, em aplicações com prazo acima de vinte e quatro meses. Se classificados como de curto prazo, os rendimentos são tributados na fonte às alíquotas de: a) 22,5%, em aplicações com prazo de até seis meses; b) 20%, em aplicações com prazo acima de seis meses.",
+        "source": "Lei nº 11.033, de 21 de dezembro de 2004, art. 1º ; Lei nº 11.053, de 29 de dezembro de 2004, art. 6º; Lei nº 12.431, de 24 de junho de 2011, arts. 2º e 3º; Lei nº 13.043, de 13 de novembro de 2014, art. 2º"
+    },
+    {
+        "question": "Qual é o tratamento tributário dos rendimentos produzidos por conta de depósito de poupança?",
+        "answer": "Os rendimentos obtidos em conta de depósito de poupança pela pessoa física estão isentos do imposto sobre a renda, ainda que em virtude de decisão judicial que tenha determinado a correção dos valores depositados por índice diferente do fixado pela autoridade monetária.",
+        "source": "Lei nº 8.981, de 20 de janeiro de 1995, art. 68, inciso III"
+    },
+    {
+        "question": "Qual é o tratamento tributário dos rendimentos produzidos por conta de depósito de poupança em nome de menor, cujo depósito é efetuado em decorrência de ordem judicial?",
+        "answer": "Tratando-se de conta de depósito de poupança, os rendimentos auferidos são isentos do imposto sobre a renda.",
+        "source": "Lei nº 8.981, de 20 de janeiro de 1995, art. 68, inciso III"
+    },
+    {
+        "question": "As importâncias correspondentes aos juros de conta de depósito de poupança remetidas para beneficiário pessoa física não residente no Brasil são tributáveis?",
+        "answer": "Não. Relativamente aos juros de conta de depósito de poupança, o não residente sujeita-se às mesmas normas de tributação previstas para o residente no Brasil. Assim, os rendimentos correspondentes aos juros creditados estão isentos.",
+        "source": "Lei nº 8.981, de 20 de janeiro de 1995, arts. 68, inciso III, e 78"
+    }  
+]
